@@ -16,7 +16,7 @@ class Quadrado{
     }
 
     public int calcularArea(){
-        return lado * 4;
+        return lado * lado;
     }
 }
 
